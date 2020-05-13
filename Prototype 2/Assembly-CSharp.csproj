@@ -64,8 +64,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\DestroyOutOfBounds.cs" />
+    <Compile Include="Assets\Script\DetectCollision.cs" />
     <Compile Include="Assets\Script\MoveAnimalsNFood.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\SpawnManager.cs" />
     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/sganesh/Unity/Create-With-Code/Prototype 2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
